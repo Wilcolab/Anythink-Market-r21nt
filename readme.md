@@ -10,8 +10,3 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-<ol>
-    <li>Install Docker</li>
-    <li>Install Docker Compose</li>
-    <li>Run docker-compose up.</li>
-</ol>
